@@ -9,9 +9,9 @@ class Song
   end
 
 
-  # Method returns the 'name' attribute of the 'Author' class that the
-  # particular 'Post' object is associated with. Returns nil if there is no
-  # 'Author' class that is associated.
+  # Method returns the 'name' attribute of the 'Artist' class that the
+  # particular 'Song' object is associated with. Returns nil if there is no
+  # 'Artist' class that is associated.
   def artist_name
     if @artist != nil
       return @artist.name
