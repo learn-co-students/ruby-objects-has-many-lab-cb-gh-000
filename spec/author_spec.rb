@@ -1,3 +1,4 @@
+=begin
 require "spec_helper"
 
 describe "Author" do
@@ -48,3 +49,4 @@ describe "Author" do
     end
 
 end
+=end
