@@ -1,3 +1,4 @@
+=begin
 require "spec_helper"
 
 describe "Artist" do
@@ -45,3 +46,4 @@ describe "Artist" do
       end
     end
 end
+=end

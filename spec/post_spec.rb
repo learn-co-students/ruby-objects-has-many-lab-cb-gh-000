@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe 'Post' do
@@ -57,3 +58,4 @@ describe 'Post' do
   end
   # binding.pry
 end
+=end
