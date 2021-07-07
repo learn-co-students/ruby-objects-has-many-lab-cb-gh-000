@@ -1,6 +1,6 @@
 # Ruby Objects Has Many Lab
 
-## Objectives
+## Objectihves
 
 - Build out the has many/belongs to relationship between two classes.
 - Build methods that use the has many/belongs to relationship between two classes.
